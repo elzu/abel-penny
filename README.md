@@ -5,3 +5,4 @@
 * Juho Sundén
 * Nathan Shepherd
 * Charles Cheshire
+* Evelina Davies
