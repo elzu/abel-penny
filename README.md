@@ -5,4 +5,5 @@
 * Juho Sundén
 * Homeros Feichín
 * Nathan Shepherd
+* Hunberct Dagfinn
 * Charles Cheshire
