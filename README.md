@@ -7,3 +7,5 @@
 * Nathan Shepherd
 * Hunberct Dagfinn
 * Charles Cheshire
+* Evelina Davies
+* Livia Ruotsalainen
